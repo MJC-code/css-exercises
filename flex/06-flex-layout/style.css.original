@@ -11,14 +11,6 @@ img {
   width: 600px;
 }
 
-.header {
-  display: flex;
-}
-
-.footer {
-  display: flex
-}
-
 button {
   font-family: Roboto, sans-serif;
   border: none;
@@ -32,12 +24,4 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
-}
-
-ul {
-  list-style-type: none;
-}
-
-a:link {
-  text-decoration: none;
 }
