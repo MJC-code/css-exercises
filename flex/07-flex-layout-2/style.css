@@ -61,9 +61,10 @@ a:hover, a:active {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  flex: auto;
-  width: 240px;
+  flex: 0 0 auto;
+  width: 300px;
   margin: 32px;
+  padding: 8px;
 
 }
 
